@@ -36,13 +36,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/vivekvardhanadepu/react-native-tidypos-terminal",
-  "author": "vivekvardhanadepu <vivekvicky839@gmail.com> (https://github.com/vivekvardhanadepu)",
+  "repository": "https://github.com/vatsal-gadhiya-searce/react-native-tidypos-terminal",
+  "author": "vatsal-gadhiya-searce <vatsal.gadhiya@searce.com> (https://github.com/vatsal-gadhiya-searce)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vivekvardhanadepu/react-native-tidypos-terminal/issues"
+    "url": "https://github.com/vatsal-gadhiya-searce/react-native-tidypos-terminal"
   },
-  "homepage": "https://github.com/vivekvardhanadepu/react-native-tidypos-terminal#readme",
+  "homepage": "https://github.com/vatsal-gadhiya-searce/react-native-tidypos-terminal#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
