@@ -1,5 +1,5 @@
 {
-  "name": "react-native-tidypos-terminal",
+  "name": "react-native-tidypos-terminal-noq",
   "version": "0.1.1",
   "description": "A react-native library to make payments in sunmi device through tidypos gateway",
   "main": "lib/commonjs/index",
